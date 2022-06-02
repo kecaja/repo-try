@@ -1,2 +1,3 @@
 przed zmiana w pliku 1
 druga zmiana
+trzecia zmiana - jacek_dev
